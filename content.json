@@ -1,1 +1,12 @@
-{}
+{
+  "custom-field": "something",
+  "custom-list": [
+    {},
+    {
+      "custom-list-item": "ss"
+    }
+  ],
+  "custom-object": {
+    "custom-line": "ss"
+  }
+}
